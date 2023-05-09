@@ -1,0 +1,6 @@
+npm agar use krte hai toh wo system par install hojata hai 
+or npx single time execute hota hao 
+
+creating new react app command
+
+npx create-react-app my-app
